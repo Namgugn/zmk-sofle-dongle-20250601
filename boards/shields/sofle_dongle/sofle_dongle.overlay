@@ -4,7 +4,7 @@
  * SPDX-License-Identifier: MIT
  */
 
-#import "my_keyboard-layouts.dtsi"
+#include "my_keyboard-layouts.dtsi"
 
 &physical_layout0 {
     transform = <&default_transform>;
